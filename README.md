@@ -32,10 +32,10 @@ To install the AI-PDF-Query-Master App, please follow these steps:
    ```
 3.Make sure you have installed the necessary dependencies.
 4.Execute the following command to run the application using terminal:
-    ```
-        streamlit run app.py
+   ```
+    streamlit run app.py
 
-    ```
+   ```
 5.The application will open in your default web browser, presenting the user interface.
 6.Follow the instructions provided within the application to load multiple PDF documents.
 7.Utilize the chat interface to ask questions about the loaded PDFs using natural language.

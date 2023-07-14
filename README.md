@@ -19,6 +19,8 @@ The "AI PDF Query Master" is a web application that leverages the OpenAI API to 
 
 By combining the power of OpenAI's ChatGPT with PDF processing capabilities, the "AI PDF Query Master" simplifies the extraction of insights and knowledge from large PDF collections, making it a valuable tool for researchers, students, and professionals working with extensive document repositories.
 
+Get started with AI-assisted PDF querying today and unlock the potential of your PDF documents!
+
 ## Installation
 ----------------------------
 To install the AI-PDF-Query-Master App, please follow these steps:
@@ -35,7 +37,9 @@ To install the AI-PDF-Query-Master App, please follow these steps:
     streamlit run app.py
    ```
 5.The application will open in your default web browser, presenting the user interface.
+
 6.Follow the instructions provided within the application to load multiple PDF documents.
+
 7.Utilize the chat interface to ask questions about the loaded PDFs using natural language.
-Get started with AI-assisted PDF querying today and unlock the potential of your PDF documents!
+
 

@@ -9,8 +9,8 @@ Features:
 - Query history and context: The app maintains a history of previous queries and maintains context during the conversation, allowing users to refer back to previous questions and continue the flow seamlessly.
 - Fast and accurate results: The app employs advanced natural language processing techniques to quickly analyze and extract pertinent information from the uploaded PDFs, providing users with precise answers and insights.
 
-![](Screenshots/Screenshot 1.png)
-![](Screenshots/Screenshot 2.png)
+![Screenshot 1](Screenshots/Screenshot 1.png)
+![Screenshot 2](Screenshots/Screenshot 2.png)
 
 
 

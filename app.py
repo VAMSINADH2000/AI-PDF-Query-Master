@@ -31,7 +31,7 @@ def main():
         st.sidebar.success("API key has been set.")
 
     # Upload PDF documents
-    st.subheader("Your documents")
+    st.subheader("Your PDFs")
     uploaded_docs = st.file_uploader(
         "", accept_multiple_files=True,type=(['pdf']))
     

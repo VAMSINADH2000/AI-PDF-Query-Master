@@ -32,6 +32,7 @@ To install the AI-PDF-Query-Master App, please follow these steps:
    pip install -r requirements.txt
    ```
 3.Make sure you have installed the necessary dependencies.
+
 4.Execute the following command to run the application using terminal:
    ```
     streamlit run app.py

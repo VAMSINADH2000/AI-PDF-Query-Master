@@ -1,5 +1,5 @@
 # AI-PDF-Query-Master
-[Deployed App](https://ai-pdf-query-master-5nnt4zrnllr.streamlit.app/)
+Try this App by clicking here [Deployed App](https://ai-pdf-query-master-5nnt4zrnllr.streamlit.app/)
 
 The "AI PDF Query Master" is a web application that leverages the OpenAI API to enable users to upload PDF documents and interactively query them using natural language. It harnesses the capabilities of the OpenAI ChatGPT language model to provide intelligent and contextual responses to user queries.
 
